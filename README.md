@@ -10,7 +10,7 @@ Run `npm install` para instalação de dependências.
 
 Run `node index.js` para rodar o servidor. http://localhost:8080. No arquivo config/default.json é possível alterar a porta do servidor.
 
-##API
+## API
 
 Request GET
 <br>
@@ -31,10 +31,10 @@ Request GET
 
 Facilidade no manuseio do arquivo .json, possibilidade de ampliar as funcionalidades
 
-##Dificuldades
+## Dificuldades
 
 A paginação foi um desafio, mas depois de entender o conceito ficou mais fácil!
 
-##Melhorias no Futuro
+## Melhorias no Futuro
 
 Testes unitários, implementação de token para acesso às informações, uso de um banco de dados para armazenamento dos cadastros
