@@ -1,4 +1,4 @@
-# SmartstuffNodeJS
+# API com NodeJS
 
 Projeto gerado com o NodeJs + Express + Config
 
@@ -30,11 +30,3 @@ Request GET
 ## Escolha do framework
 
 Facilidade no manuseio do arquivo .json, possibilidade de ampliar as funcionalidades
-
-## Dificuldades
-
-A paginação foi um desafio, mas depois de entender o conceito ficou mais fácil!
-
-## Melhorias no Futuro
-
-Testes unitários, implementação de token para acesso às informações, uso de um banco de dados para armazenamento dos cadastros
